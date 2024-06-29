@@ -50,6 +50,10 @@ Field 3: Paper ID
 Field 4: Paper Name
 Field 5: Marks
 
+#Tips on the general structure of your project
+Assuming you are using eclipse the general project structure will be the packsge that contains all java files and for the files placed in the 'files' these are the files
+that contain each enitity info record data where the 'Loader' class reads and parses the the files into its according entity.
+
 #Contributing: Contributions are welcome! Please open an issue or submit a pull request for any enhancements, bug fixes, or documentation improvements.
 
 #Acknowledgements: Java Programming Language
